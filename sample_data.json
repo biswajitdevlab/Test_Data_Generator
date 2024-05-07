@@ -1,0 +1,16 @@
+{
+  "sample_data": [
+    {
+      "email": "abc@gmail.com",
+      "password": "abc@456#"
+    },
+    {
+      "email": "test@example.com",
+      "password": "Test@1234"
+    },
+    {
+      "email": "user123@yahoo.com",
+      "password": "User@7890"
+    }
+  ]
+}
